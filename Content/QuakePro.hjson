@@ -1,0 +1,17 @@
+{
+	localizedName: Shockwave
+	description: An even more powerful Ripple, has 3 barrels for maximum firepower
+	size: 5
+	health: 3250
+	targetAir: false
+        bulletType: ArtilleryBulletType
+	requirements:['
+	Copper/350
+	lead/100
+	titanium/100
+	graphite/300
+		
+	],
+	category: turret,
+	research: ripple,
+}
