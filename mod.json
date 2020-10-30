@@ -1,0 +1,7 @@
+name: mod attempt
+displayName: Mod [red]attempt[]
+author: DockedSiamang22
+description: adds upgraded turrets
+version: "1.0"
+minGameVersion: "111.0"
+dependencies:
