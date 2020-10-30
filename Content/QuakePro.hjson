@@ -1,17 +1,16 @@
 {
-	localizedName: Shockwave
+	localizedName: Quake
 	description: An even more powerful Ripple, has 3 barrels for maximum firepower
 	size: 5
 	health: 3250
 	targetAir: false
-	targetGround: true
-	range: 508
+	range: 420
         bulletType: ArtilleryBulletType
 	requirements:['
-	Copper/350
+	Copper/150
 	lead/100
-	titanium/100
-	graphite/300
+	titanium/6o
+	graphite/135
 		
 	],
 	category: turret,
