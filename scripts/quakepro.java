@@ -1,4 +1,4 @@
-ripple = new ItemTurret("Quake"){{
+            ItemTurret("Quake"){{
             requirements(Category.turret, with(Items.copper, 150, Items.graphite, 135, Items.titanium, 60, Items.lead, 100));
             ammo(
             Items.graphite, Bullets.artilleryDense,
