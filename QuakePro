@@ -1,17 +1,16 @@
 {
-	"localizedName": "Quake",
-	"description": "An even powerful Ripple, has 3 barrels.",
+	"Name": "Shockwave",
+	"description": "An even more powerful Ripple, has 3 barrels for maximum firepower",
 	"size": 5,
 	"health": 3250,
 	"targetAir": false,
-  "bulletType": ArtilleryBulletType
+        "bulletType": ArtilleryBulletType
 	"requirements": [
 		{ "item": "copper", "amount": 450 },
 		{ "item": "graphite", "amount": 375 },
 		{ "item": "titanium", "amount": 220 },
 		{ "item": "silicon", "amount": 180 },
-		{ "item": "thorium", "amount": 150 },
 	],
 	"category": "turret",
-	"research": "shatter",
+	"research": "ripple",
 }
