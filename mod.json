@@ -2,5 +2,5 @@ name: mod attempt
 displayName: why
 author: DockedSiamang22
 description: adds upgraded turrets
-version: "1.0"
-minGameVersion: v6
+version: 1.0
+minGameVersion: 105
