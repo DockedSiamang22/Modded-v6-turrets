@@ -5,7 +5,8 @@
 	"health": 3250,
 	"targetAir": false,
         "bulletType": "ArtilleryBulletType"
-	"requirements": [
+	"requirements": 
+	[
 		{ "item": "copper", "amount": 450 },
 		{ "item": "graphite", "amount": 375 },
 		{ "item": "titanium", "amount": 220 },
