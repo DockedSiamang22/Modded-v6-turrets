@@ -4,6 +4,8 @@
 	size: 5
 	health: 3250
 	targetAir: false
+	targetGround: true
+	range: 508
         bulletType: ArtilleryBulletType
 	requirements:['
 	Copper/350
